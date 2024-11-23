@@ -65,3 +65,9 @@ printer-gui
 * **README.md**: Pantalla principal que aparece en GitHub.
 * **resources**: Contiene todo lo que no sea código.
 * **src**: Contiene todo el código que conforma la lógica del programa.
+
+## Good practices
+
+Se intenta seguir lo siguente:
+
+* https://docs.python-guide.org/writing/structure/
